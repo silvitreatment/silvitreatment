@@ -7,7 +7,7 @@
 ### 🧠 Tech Stack  
 - **Languages:** C++, C, Kotlin, 
     Python, Assembler  
-- **Tools & Platforms:** Linux, PostgreSQL, Neo4j, Redis, Docker, 
+- **Tools & Platforms:** Linux, PostgreSQL, SQLite, Redis, Docker, 
     Kubernetes, JUnit, Jetpack Compose
 
 ---
