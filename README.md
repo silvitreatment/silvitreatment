@@ -7,6 +7,6 @@
 ### 🧠 Tech Stack  
 - **Languages:** C/C++, Golang, Python, Kotlin  
 - **Tools & Platforms:** Linux, PostrgeSQL, Docker, 
-    Kubernetes, Grafana, Loki, Ansible, Terraform, Bash 
+    Kubernetes, Grafana, Loki, Ansible, Terraform, Bash, Argo, Lens
 
 ---
