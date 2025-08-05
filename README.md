@@ -5,9 +5,8 @@
 ---
 
 ### 🧠 Tech Stack  
-- **Languages:** C++, Golang, C, Kotlin, 
-    Python, Assembler  
-- **Tools & Platforms:** Linux, SQLite, Docker, 
-    Kubernetes, JUnit, Jetpack Compose
+- **Languages:** C/C++, Golang, Python, Kotlin  
+- **Tools & Platforms:** Linux, PostrgeSQL, Docker, 
+    Kubernetes, Grafana, Loki, Ansible, Terraform, Bash 
 
 ---
