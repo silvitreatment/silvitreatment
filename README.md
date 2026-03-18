@@ -5,6 +5,6 @@
 ---
 
 ### Tech Stack  
-- **Languages:** C/C++, Python, Kotlin  
+- **Languages:** C, Python, Kotlin  
 - **Tools & Platforms:** Linux, PostrgeSQL, Docker, ClickHouse Grafana, Ansible, Bash
 ---
