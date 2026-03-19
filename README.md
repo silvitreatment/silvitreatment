@@ -1,6 +1,6 @@
 **Yandex Backend Developer**  
 **SPbU Student**  
-📍 Based in Saint Petersburg, Russia  
+нананана бэбэбэ аавхоапвтпылао флыа lmao bottom text hahahaha
 
 ---
 
