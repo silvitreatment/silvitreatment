@@ -2,9 +2,4 @@
 **SPbU Student**  
 нананана бэбэбэ аавхоапвтпылао флыа lmao bottom text hahahaha
 
----
-
-### Tech Stack  
-- **Languages:** Python, Kotlin, C  
-- **Tools & Platforms:** Linux, PostrgeSQL, Docker, ClickHouse Grafana, Ansible, Bash
----
+Иногда я нажимаю кнопку «закрыть двери» прямо перед бегущими к лифту людьми. Порой мне просто нужен собственный лифт. Мое святилище.
